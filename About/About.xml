@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--The above line is the start of every XML file. Just ignore it-->
+<ModMetaData>
+    <name>Knockout Medicine</name>
+<description>Adds a medicine called "Knockout" to the game, which can temporarily put your pawns into sleepy time. Comes with negative health effects if used too often. 
+Meant to be a balanced way of knocking out a pawn if you don't have cryosleep or other methods available.
+You will need to research it and then craft it at a drug lab with Neutroamine and Chemfuel.</description>
+    <author>Gorm</author>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <packageId>gorm.knockout</packageId>
+</ModMetaData>
